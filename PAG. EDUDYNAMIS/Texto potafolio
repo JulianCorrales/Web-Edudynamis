@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Edudynamis Asesores Educativos</title>
+    <img src="img/Logo.jpeg" width = "200"/>
+</head>
+<body>
+    <h1>Portafolio de servicios Edudynamis Asesores Educativos</h1>
+
+    <h2> <span style="color: rgb(3, 3, 49);">Educación Formal</span>  </h2>
+    <h3>Preescolar - Básica primaria y secundaria - Media Académica - Educación de Adultos</h3>
+    Nuestro equipo de profesionales está en capacidad para acompañarle en los siguientes trámites de educación formal:</p>
+    <ol>
+      <li>Obtención de Licencia de Funcionamiento para todos los niveles educativos y educación de adultos.</li>
+      <li>Elaboración o actualización de Proyectos Educativos Institucionales.</li>
+      <li>Trámites relacionados con modificaciones a la Licencia de Funcionamiento (establecimientos educativos privados):</li> <br>
+      <ol>
+         <li style="list-style-type: lower-alpha;">Cambio de sede o apertura de nuevas sedes</li>
+         <li style="list-style-type: lower-alpha;">Ampliación de oferta de niveles educativos </li>
+         <li style="list-style-type: lower-alpha;">Modificaciones estructurales del PEI que implican una modalidad de servicio distinto o en el carácter de la media.</li> <br>
+      </ol>
+      
+      <li>Diseño y aplicación de planes y estrategias de mejoramiento institucional.</li>
+      <li>Trámite para aprobación de tarifas de matrículas, pensiones y cobros periódicos</li>
+      <li>Realización de autoevaluación institucional y presentación de propuesta de costos educativos</li>
+      <li>Asesorías jurídicas y pedagógicas.</li>
+      <li>Cursos de actualización en normatividad educativa, PEI, Manuales de Convivencia, costos educativos, aplicativo EVI, SIE, <br>
+         debido proceso, desarrollo de competencias para la integración de TIC a los procesos de enseñanza y aprendizaje.</li>
+      <li>Asesoría integral para la gestión institucional en sus diferentes dimensiones: directiva, académica, <br>
+         administrativa y de proyección a la comunidad.</li>
+      <li>Elaboración de objetos virtuales para el aprendizaje.</li>
+      <li>Diseño de ambientes virtuales para el apoyo de los procesos de enseñanza y aprendizaje.</li>
+      <li>Desarrollo de software educativo a medida de las necesidades del cliente para las diversas <br>
+         gestiones institucionales (directivas, administrativas y académicas).</li>
+    </ol>
+        <a target= "_blank" href="https://www.google.com/?hl=es">Ir a Google</a>
+   
+    <hr>
+   <!--Portafolio ETDH-->
+     <h2> <span style="color:  rgb(3, 3, 49)e;">Educación para el Trabajo y el Desarrollo Humano</span>  </h2>
+     <ol>
+      <li>Obtención de Licencia de Funcionamiento y Registro de Prgramas</li>
+      <li>Renovación de registros de programas próximos a vencerse.</li>
+      <li>Elaboración o actualización de Proyectos Educativos Institucionales.</li>
+      <li>Trámites relacionados con: cambio de sede, apertura de nuevas sedes, cambio de propietario, cambio de nombre, entre otros. </li>
+      <li>Estructuración de cursos de educación informal para complementar, actualizar, perfeccionar, <br>
+         renovar o profundizar conocimientos, habilidades, técnicas y prácticas (inferiores a 160 horas).</li>
+      <li>Asesoría para estructuración y sistematización de los procesos institucionales a través de los <br>
+         libros reglamentarios obligatorios.</li>
+     </ol>
+   
+     <!--Portafolio de programas virtuales-->
+     <h2> <span style="color:  rgb(3, 3, 49)e;">Programas a distancia con estrategia virtual</span></h2>
+     <ol>
+      <li>Asesoría para el cumplimiento de requisitos institucionales de infraestructura tecnológica 
+         <br> y recursos virtuales para la formación no presencial.</li>
+      <li>Estructuración de programas técnicos o académicos no presenciales con estrategias de educación virtual.</li>
+      <li>Creación, desarrollo y soporte de ambientes virtuales de aprendizaje y contenidos educativos digitales.</li>
+      <li>Elaboración o ajuste de Proyectos Educativos Institucionales con enfoque en metodología a distancia.</li>
+      <li>Capacitación para la integración de TIC a la educación y el manejo de ambientes virtuales de aprendizaje.</li>
+      <li>Elaboración de objetos virtuales para el aprendizaje.</li>
+      <li>Desarrollo de software educativo a medida de las necesidades del cliente para las diversas 
+         <br> gestiones institucionales (directivas, administrativas y académicas).</li>
+         <li>Creación o mejoramiento de estrategias didácticas y metodológicas en ambientes virtuales de aprendizaje.</li>
+     </ol>
+
+     <a target="_blank" href="http//: https://www.mineducacion.gov.co/portal/Educacion-superior/Informacion-Destacada/196492:Educacion-virtual-o-educacion-en-linea">Ir a Educación Virutal en Colombia MEN</a>
+     <!--no me muestra la página-->
+     <hr>
+     <!--Portafolio Escuelas Normales Superiores, diseñar en una nueva ventana-->
+     <h2> <span style="color:  rgb(3, 3, 49);">Escuelas Normales Superiores</span></h2>
+     <ol>
+      <li>Asesoría para el cumplimiento de requisitos institucionales de infraestructura tecnológica y 
+         <br>recursos virtuales para oferta el PFC en modalidad semipresencial.</li>
+      <li>Estructuración de los Programas de Formación Complementaria semipresenciales con estrategias de educación virtual.</li>
+      <li>Creación, desarrollo y soporte de ambientes virtuales de aprendizaje y contenidos educativos digitales.</li>
+      <li>Elaboración o ajuste de Proyectos Educativos Institucionales con enfoque en metodología a distancia con estrategia virtual.</li>
+      <li>Capacitación para la integración de TIC a la educación y el manejo de ambientes virtuales de aprendizaje.</li>
+      <li>Elaboración de objetos virtuales para el aprendizaje.</li>
+      <li>Desarrollo de software educativo a medida de las necesidades del cliente para las diversas 
+         <br>gestiones institucionales (directivas, administrativas y académicas).</li>
+      <li>Creación o mejoramiento de estrategias didácticas y metodológicas en ambientes virtuales de aprendizaje.</li>
+      <li>Cursos y diplomados para estudiantes de los Programas de Formación Complementaria y maestros formadores 
+         <br>relacionados con integración de Tecnologías de la Información y la Comunicación en los procesos de enseñanza y aprendizaje.</li>
+      <li>Asesoría para los procesos de sistematización y alistamiento de las condiciones básicas de calidad 
+         <br>de los Programas de Formación Complementaria.</li>
+     </ol>
+     
+     <a target="_blank" href="http//: https://www.mineducacion.gov.co/1621/w3-article-345504.html">Ir a Escuelas Normales Superiores en Colombia</a>
+     <!--no muestra la página-->
+     <hr>
+     <!--Portafolio de contenidos digitale, estructurar en otra ventana-->
+     <h2> <span style="color: rgb(3, 3, 49)">Servicios de diseño y marketing digital orientado al sector educativo</span></h2>
+     <ol>
+      <li>Creación o mejoramiento de la marca o imagen institucional para publicidad.</li>
+      <li>Definición de propuesta de valor y conceptualización de estrategias para potenciar el impacto publicitario de la institución.</li>
+      <li>Estrategias de mercadeo para generar mayor impacto en los destinatarios potenciales de los servicios educativos que ofrece.</li>
+      <li>Creación o actualización de papelería institucional (membretes, circulares, entre otros) para generar mejor impacto institucional.</li>
+      <li>Diagramación o actualización de periódicos, revistas u otras estrategias de difusión de la institución de tipo físico o digital.</li>
+      <li>Contenido para redes sociales para el posicionamiento en medios digitales.</li>
+      <li>Estrategias e implementación de pauta en redes sociales.</li>
+      <li>Diseño y mejoramiento de páginas web institucionales y ambientes virtuales de aprendizaje.</li>
+     </ol>
+    
+     <h2> <span style="color: rgb(221, 182, 6)">¿Necesitas alguno de nuestros servicios?</span></h2>
+     <h3> <span style="color: rgb(3, 3, 49)">Déjanos tus datos a continuación y uno de nuestros asesores se comunicará contigo</span></h3>
+    
+     <form action="/formulario" method="post"> <!--no me muestra la información de los formularios en ninguno de los métodos-->
+      <label for="Nombre">Nombre</label>
+      <input id="Nombre" name="Nombre" placeholder="Escriba aquí su nombre"/> 
+      <br>
+      <label for="Apellidos">Apellidos</label>
+      <input id= "Apellidos" name="Apellidos" placeholder="Escriba aquí sus Apellidos"/>
+      <br>
+      <label for="Número de teléfono">Número de teléfono</label>
+      <input type="tel"  id="Número de teléfono" name="teléfono" placeholder="Escriba aquí su número de contacto"/>
+      <br>
+      <label for="Email">Email</label>
+      <input type="email" id="Email" name="Email" placeholder="xxxxx@xxx.xxx"/>
+      <br>
+      <label for="servicio">Comentarios e inquietudes</label>
+      <br>
+      <textarea cols="70" rows="10" id="Servicio" placeholder="Describa en este espacio qué tipo de servicio requiere o si tiene dudas e iquietudes acerca de nuestro portafolio de servicios" name="Servicio"></textarea>
+      <br> 
+      <label for="Adjunto">¿Desea adjuntar un archivo para ampliar su solicitud?</label>
+       <input type="file" id="Adjunto" placeholder="Adjunte aquí su archivo">
+       <br>
+       <input type="submit"/>  <!--no borra los datos consignados en los formularios cuando actualizo la página, al parecer no envía la información de los formularios-->
+   </form>
+
+  
+</body>
+</html>
+
+
+VOY EN EL MINUTO 37:14. 
+
+
+background-image: url(Img/ima5.jpg);
+background-repeat: no-repeat;
+background-position: initial;
+background-size: contain;
